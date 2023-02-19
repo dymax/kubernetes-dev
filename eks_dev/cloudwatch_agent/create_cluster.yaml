@@ -9,4 +9,4 @@ metadata:
 nodeGroups:
   - name: ng1-public
     instanceType: t2.medium
-    desiredCapacity: 4
+    desiredCapacity: 3
